@@ -1,0 +1,14 @@
+.bg-gray-800 {
+  background-color: #333 !important;
+}
+
+.text-white {
+  color: #fff !important;
+}
+
+.fixed-top {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 999;
+}
